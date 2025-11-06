@@ -1,4 +1,15 @@
-Hiya👋 I'm Younghoon, a passionate developer
+<div>
+  
+  <!--Header-->
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there!)
+  
+</div>
+
+<div>
+ 
+ #### I am a passionate junior Frontend Engineer<br/>
+
+</div>
 <div style="display: flex;  ;">
  
 ![Next JS](https://img.shields.io/badge/Nextjs-black?style=for-the-badge&logo=next.js&logoColor=white&style=Flat)
