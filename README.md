@@ -1,6 +1,10 @@
-# 전영훈 _JeonYoungHoon_
 
-👨‍💻 Frontend Engineer
+ <!--
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header&customColorList=15" width=100% />
+ -->
+
+![header](https://capsule-render.vercel.app/api?type=venom&height=360&color=0:cfe8ff,100:3b82f6&text=Younghoon&fontSize=60&fontColor=0f172a)
+
 
 [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
@@ -8,6 +12,6 @@
 
 ## Introduce
 
-- 사이드 프로젝트를 통해 아이디어를 실체화하는 것을 좋아합니다.
-- 성장을 위해 지속적으로 점진적 과부하를 통하여 학습합니다.
-- 지금은 프론트엔드에 집중하고 있으나, 특정 분야에 한정하지 않고 많은 것을 배우고자 합니다.
+- 배움을 좋아합니다. 요즘은 컴퓨터 과학을 공부 중이에요.
+- 자바스크립트를 기반으로 한 기술들을 사용합니다.
+- 다양한 것들에 관해서 얘기하고 의견을 나누는 것을 좋아합니다.
